@@ -26,6 +26,7 @@ Der Votrag sollte Sachlich wie auch von der Ausführen den Schülern im Kopf ble
 - LiveCoding
 - Fragen an einem Individuum stellen
 - Abstimmung mit dem Publikum (Kahoot)
+- Whiteboard
 
 ### Humor
 
