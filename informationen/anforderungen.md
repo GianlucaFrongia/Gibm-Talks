@@ -25,21 +25,32 @@ Für einen reibungslosen Vortrag braucht es folgende Sachen:
 ## Ankündigungen
 
 > Wie bekommen die Schüler es mit ?
+Für alle Ankündigungs Formen müssen folgenden Informationen mitgegeben werden:
+
+1. Datum und Uhrzeit
+2. Geschätze Dauer
+3. Zimmernummer des Vortragsraum
+4. Titel des Vortrags
+5. Kurze Einführung zum Vortrag
+6. Anforderungen für den Vortrag 
+   > Beispiel: Wenn ein Vortrag über ein JavaScript-Framework gehalten wird, sollte die Anforderung etwa in so lauten "Grundkenntnisse in JavaScript"
+7. Name des Vortragshalter
+
 Folgende Optionen sollten beachtet werden.
 
 1. Email
 
-	Eine Email-Einladung an die Schüler versenden mit den folgenden Informationen:
-	- Datum und Uhrzeit
-	- Geschätze Dauer
-	- Zimmernummer des Vortragsraum
-	- Titel des Vortrags
-	- Kurze Einführung zum Vortrag
-	- Anforderungen für den Vortrag 
-		> Beispiel: Wenn ein Vortrag über ein JavaScript-Framework gehalten wird, sollte die Anforderung etwa in so lauten "Grundkenntnisse in JavaScript"
-	- Name des Vortragshalter
-2. Plakate / Monitor
-	
+   Eine Email-Einladung an die Schüler versenden.
+   Anhand Punkt 6. kann die Email nur an den Klassen gesendet werden, welche auch für den Vortrag geeignet ist oder infrage kommen.
+
+2. Poster / Monitor
+
+   Der Poster mit den wichtigsten Informationen kann am Schausfenster der Gibm aufgehängt werden und/oder während den Pausen am Monitor ausgestrahl werden.
+
 3. Mund zu Mund Propaganda
 
+   Mit einem Lehrer in Kontakt tretten wo wtwa das selbe Thema schult um den sich der Vortrag handelt. Dieser kann dann während seinen Lektionen über den Votrag "werbung" machen
+
 ## Anmeldungen
+
+Google Forms.
