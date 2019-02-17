@@ -13,7 +13,7 @@ Für den ersten Anlauf wiederholen wir einen Votrag bis zu drei Mal an unterschi
 - [Wie sollte mein Vortrag aussehen?](./informationen/anforderungen.md)
 
 2. Eröffne ein [Issue](https://github.com/GianlucaFrongia/Gibm-Talks/issues) mit deinem Vorschlag!
-Sobal du unseren OK! hast, kannst du folgende machen.
+Sobald du unseren OK! hast, kannst du folgendes machen:
 
 3. Forke diese Repo und clone [Vortrag-Vorlage](./vorlagen/vortrag-vorlage.md)
 
