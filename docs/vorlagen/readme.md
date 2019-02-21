@@ -1,3 +1,7 @@
+---
+title: Anforderungen für Vorträge
+---
+
 <!-- 
 	Name des Votrages - Länge: ~ 20 Zeichen) 
 -->
