@@ -21,7 +21,7 @@ Die GIBM Schüler werden nach dem Unterricht sich den Votrag anhören. Deswegen 
 
 ### Abschwechlung
 
-Der Votrag sollte Sachlich wie auch von der Ausführen den Schülern im Kopf bleiben. Hierfür gibt es verschiedene Möglichkeiten:
+Der Votrag sollte sachlich wie auch von der Ausführen den Schülern im Kopf bleiben. Hierfür gibt es verschiedene Möglichkeiten:
 
 - LiveCoding
 - Fragen an einem Individuum stellen

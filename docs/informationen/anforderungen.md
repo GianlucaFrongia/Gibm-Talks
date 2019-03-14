@@ -9,7 +9,7 @@ title: Anforderungen für Vorträge
 Der Raum für die Vorträge sollte folgende Kriterien enthalten:
 
 - Platz für die Teilnehmenden
-- Breiter Raum für die Stühle, so dass die Zuschauer nebeneinandern sitzen      können.
+- Breiter Raum für die Stühle, so dass die Zuschauer nebeneinandern sitzen können.
 
 ## Zeit
 
@@ -24,7 +24,7 @@ Für einen reibungslosen Vortrag braucht es folgende Sachen:
 
 2. Audio
    - Absichern ob der Beamer eine Schnittstelle für Audio zur Verfügung stellt
-   - Falls nicht: Absichhern ob Boxen vorhanden sind
+   - Falls nicht: Absichern ob Boxen vorhanden sind
 
 ## Ankündigungen
 
@@ -49,11 +49,11 @@ Folgende Optionen sollten beachtet werden:
 
 2. Poster / Monitor
 
-   Der Poster mit den wichtigsten Informationen kann am Schausfenster der GIBM aufgehängt werden und/oder während den Pausen am Monitor ausgestrahl werden.
+   Der Poster mit den wichtigsten Informationen kann am Schausfenster der GIBM aufgehängt werden und/oder während den Pausen am Monitor ausgestrahlt werden.
 
 3. Mund zu Mund Propaganda
 
-   Mit einem Lehrer in Kontakt tretten wo etwa das selbe Thema schult um den sich der Vortrag handelt. Dieser kann dann während seinen Lektionen über den Votrag "werbung" machen
+   Mit einem Lehrer in Kontakt treten wo etwa das selbe Thema schult um den sich der Vortrag handelt. Dieser kann dann während seinen Lektionen über den Votrag "werbung" machen
 
 ## Anmeldungen
 

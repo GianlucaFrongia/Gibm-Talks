@@ -1,4 +1,7 @@
 module.exports = {
+	head: [
+		['link', {rel: 'icon', href: '/gibmtalks.jpg'}]
+	],
 	themeConfig: {
 		sidebar: 'auto',
 		nav: [{
